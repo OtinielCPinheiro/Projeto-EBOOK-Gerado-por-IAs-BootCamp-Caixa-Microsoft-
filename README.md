@@ -3,7 +3,7 @@
 Desafio DIO BootCamp Caixa - Criação de E-book com utilização de IA
 
 <p align="center">
-    <img width="100" src="sketch_to_image_20250121_104220.jpg">
+    <img width="100" src="https://github.com/OtinielCPinheiro/Imagens/blob/main/sketch_to_image_20250121_104220.jpg">
 </p>
 
 
@@ -14,22 +14,15 @@ Desafio DIO BootCamp Caixa - Criação de E-book com utilização de IA
 -------
 
 
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
-
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui participante na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/OtinielCPinheiro/Prompts-para-Ebook" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 

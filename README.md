@@ -42,21 +42,21 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook.                                                        |
-| conteúdo | Faça um texto para ebook.
+|  Título  | Crie um título de um ebook.                                                        |
+| Conteúdo | Faça um texto para ebook.
 
 
 Microsoft Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Criar imagens para incluir no PowerPoint |
+| Título | Criar imagens para incluir no PowerPoint |
 
 Sansung Assistente de Desenho：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Criar artes autorais para identidade visual  |
+| Título | Criar artes autorais para identidade visual  |
 
 ## ✨ Features
 

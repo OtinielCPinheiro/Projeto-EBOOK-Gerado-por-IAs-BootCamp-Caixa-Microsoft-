@@ -3,7 +3,7 @@
 Desafio DIO BootCamp Caixa - Criação de E-book com utilização de IA
 
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src="sketch_to_image_20250121_104220.jpg">
 </p>
 
 

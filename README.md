@@ -1,4 +1,4 @@
-# Projeto-EBOOK-Gerado-por-IAs-BootCamp-Caixa-Microsoft-
+# Projeto-EBOOK-Gerado-por-IAs-BootCamp-Caixa-Microsoft
 
 Desafio DIO BootCamp Caixa - Criação de E-book com utilização de IA
 
@@ -66,7 +66,7 @@ Sansung Assistente de Desenho：
 ## 📚 Materiais
 
 - Imagens utilizadas em <a href="https://github.com/OtinielCPinheiro/Imagens" title="View Imagens now"> Clique aqui para acessar</a>
-- ebook gerado durante as aulas em <a href="https://github.com/OtinielCPinheiro/Arquivos"> Clique aqui para acessar</a>
+- E-book gerado durante as aulas em <a href="https://github.com/OtinielCPinheiro/Arquivos"> Clique aqui para acessar</a>
 
 ## 🛠️ Instruções de execução
 

@@ -22,10 +22,10 @@ Desafio DIO BootCamp Caixa - Criação de E-book com utilização de IA
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/OtinielCPinheiro/Prompts-para-Ebook" title="View arquivo now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/OtinielCPinheiro/Prompts-para-Ebook" title="View arquivo now"> 📕Clique aqui e confira</a>
 
 Não deixe de conferir o resultado. 
-<a href="https://github.com/OtinielCPinheiro/Arquivos/blob/main/Ebook_Dio_BootCamp_Caixa_MicrosoftCopilot.pdf" title="View PDF now"> <img width="48" height="48" src="https://img.icons8.com/doodle/48/book.png" alt="book"/> Clique aqui para ler</a>
+<a href="https://github.com/OtinielCPinheiro/Arquivos/blob/main/Ebook_Dio_BootCamp_Caixa_MicrosoftCopilot.pdf" title="View PDF now"> Clique aqui para ler <img width="28" height="28" src="https://img.icons8.com/doodle/48/book.png" alt="book"/> </a> 
 
 
 ## 💻 Tecnologias utilizadas no projeto
@@ -80,8 +80,10 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     Otiniel Pinheiro &nbsp;|&nbsp;
     
  &nbsp;|&nbsp; 
-    <a href="https://github.com/OtinielCPinheiro"
-    >Github</a>  &nbsp;|&nbsp;</p>
+    <a 
+        href="https://github.com/OtinielCPinheiro"
+    >Github
+    </a>  &nbsp;|&nbsp;</p>
     
 &nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/otiniel-pinheiro-95499479/"
@@ -97,3 +99,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ---
 
 ⌨️ com 💜 por [Otiniel_Pinheiro](https://github.com/OtinielCPinheiro)
+**
